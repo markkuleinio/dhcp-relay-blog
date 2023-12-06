@@ -6,3 +6,4 @@ This repository contains the capture files for my DHCP-related blog posts:
 - [Lease Time One Hour with Windows DHCP Servers](https://majornetwork.net/2023/06/lease-time-one-hour-with-windows-dhcp-servers/)
 - [DHCP Server Eventually Responding](https://majornetwork.net/2023/11/dhcp-server-eventually-responding/)
 - [Introduction to DHCPv6](https://majornetwork.net/2023/11/introduction-to-dhcpv6/)
+- [DHCPv6 Relay](https://majornetwork.net/2023/12/dhcpv6-relay/)
